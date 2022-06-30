@@ -1,0 +1,23 @@
+{
+  "name": "a1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rostmus/a1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rostmus/a1/issues"
+  },
+  "homepage": "https://github.com/rostmus/a1#readme",
+  "dependencies": {
+    "@rostmus/dz3": "^1.0.0"
+  }
+}
